@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electors", "Electors\Electors.csproj", "{161B6C40-B8DC-41F0-AEE5-0CA716938CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161B6C40-B8DC-41F0-AEE5-0CA716938CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161B6C40-B8DC-41F0-AEE5-0CA716938CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161B6C40-B8DC-41F0-AEE5-0CA716938CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161B6C40-B8DC-41F0-AEE5-0CA716938CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2904620E-FF67-489D-BD33-34C092E31321}
+	EndGlobalSection
+EndGlobal
